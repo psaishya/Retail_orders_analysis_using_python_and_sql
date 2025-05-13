@@ -6,7 +6,7 @@ This project involves performing exploratory data analysis (EDA) on a retail ord
 
 - `orderAnalysis.ipynb` – Jupyter Notebook for Python-based data analysis and visualization.
 - `queries.sql` – Collection of SQL queries used to extract and manipulate retail data.
-- `sql queries (Analysis).pdf` – Final report containing query results and visual insights from the analysis.
+- `sql queries (Analysis).pdf` – Final report containing query results from the analysis.
 - `README.md` – Documentation for project overview and instructions.
 
 ---
